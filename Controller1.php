@@ -8,5 +8,12 @@ function superOne() {
 
 }
 
+function praOne() {
+
+}
+
+function oneOne() {
+    
+}
 
 ?>
