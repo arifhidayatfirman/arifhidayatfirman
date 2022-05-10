@@ -21,6 +21,10 @@ function tierOne() {
 }
 
 function awawawan() {
+
+}
+
+function megaOne() {
     
 }
 
