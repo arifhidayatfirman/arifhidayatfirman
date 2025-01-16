@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![arifhidayatfirman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhidayatfirman&show_icons=true&count_private=true&theme=dark)
+![arifhidayatfirman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhidayatfirman&cache_seconds=0&show_icons=true&count_private=true&theme=dark)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayatfirman&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayatfirman&cache_seconds=0&layout=compact&theme=dark)
 
 
 <!--
