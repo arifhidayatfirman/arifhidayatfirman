@@ -4,7 +4,7 @@
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayatfirman&cache_seconds=0&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayatfirman&cache_seconds=0&count_private=true&layout=compact&theme=dark)
 
 
 <!--
