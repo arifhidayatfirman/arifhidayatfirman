@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## WebDevNerdStuff's GitHub Stats
+
+![arifhidayatfirman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhidayatfirman&show_icons=true&count_private=true&theme=dark)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhidayatfirman&layout=compact&theme=dark)
+
+
 <!--
 **arifhidayatfirman/arifhidayatfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
