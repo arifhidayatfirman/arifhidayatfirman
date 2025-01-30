@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-![arifhidayatfirman's GitHub Stats](https://github-readme-stats-nejz.vercel.app/api?username=arifhidayatfirman&cache_seconds=0&show_icons=true&count_private=true&theme=dark)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats-nejz.vercel.app/api/top-langs/?username=arifhidayatfirman&cache_seconds=0&count_private=true&layout=compact&theme=dark)
-
-
 <!--
 **arifhidayatfirman/arifhidayatfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
